@@ -1,8 +1,11 @@
 # IT-Terms Translator  
 (AI Asisten Mahasiswa Informatika)
 
-Tugas Praktik Pengembangan Aplikasi Mobile Berbasis AI  
-Kelas IF 23 B
+---
+Tugas Praktik Pengembangan Aplikasi Mobile Berbasis AI 
+Nama: Nur Fitriana
+Npm: 23312036
+Kelas: IF 23B
 
 ---
 
