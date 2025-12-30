@@ -3,7 +3,7 @@
 
 ---
 
-Tugas Praktik Pengembangan Aplikasi Mobile Berbasis AI 
+**Tugas Praktik Pengembangan Aplikasi Mobile Berbasis AI**
 
 **Nama: Nur Fitriana**
 
