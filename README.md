@@ -6,7 +6,9 @@
 Tugas Praktik Pengembangan Aplikasi Mobile Berbasis AI 
 
 **Nama: Nur Fitriana**
+
 **Npm: 23312036**
+
 **Kelas: IF 23B**
 
 ---
